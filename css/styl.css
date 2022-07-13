@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: blue;
+    color: white;
+    height: 100px;
+    text-align: center;
+}
+.banner{
+    background-color: green;
+    color: aquamarine;
+    text-align: center;
+    height: 400px;
+    font-size: 40px;
+}
+.feature{
+    overflow: hidden;
+}
+.featur-one{
+    width: 50%;
+    height: 300px;
+    background-color: blueviolet;
+    float: left;
+
+}
+.featur-two{
+    width: 50%;
+    height: 300px;
+    background-color: brown;
+    float: right;
+
+}
+.Service{
+    overflow: hidden; 
+}
+.service_one{
+    height: 200px;
+    background-color: red;
+    width: 33.3%;
+    float:left
+}
+.service_two{
+    height: 200px;
+    background-color: violet;
+    width: 33.3%;
+    float:left
+}
+.service_three{
+    height: 200px;
+    background-color: navy;
+    width: 33.3%;
+    float:left
+}
+.ads{
+    overflow: hidden;
+}
+.long_ads{
+    width: 70%;
+    background-color: chartreuse;
+    height: 200px;
+    float:left
+}
+.short_ads{
+    width: 30%;
+    background-color: yellow;
+    height: 200px;
+    float: right;
+}
+.footer{
+    height: 100px;
+    background-color: black;
+}

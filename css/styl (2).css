@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+background-color: red;
+height: 100px;
+overflow: hidden;
+}
+.logo{
+width: 20%;
+height: 100%;
+background-color: lawngreen;
+float: left;
+color: wheat;
+text-align: center;
+}
+.Menu{
+width: 80%;
+background-color: blueviolet;  
+float: right;
+color: white; 
+text-align: center; 
+}
+.header_bar{
+    height: 100px;
+    background-color: crimson;
+    color: white; 
+text-align: center;   
+}
+.airtecal{
+    overflow: hidden;
+}
+.left{
+    width: 20%;
+    height: 500px;
+    background-color: blue;
+    float: left; 
+    
+}
+.center{
+    width: 60%;
+    height: 500px;
+    background-color: lawngreen;
+    float: left;
+    
+}
+.right{
+    width: 20%;
+    height: 500px;
+    background-color: brown;
+    float: left;
+    
+}
+.center_top{
+    height: 30%;
+    background-color: salmon;
+}
+.center_mideal{
+    height: 40%;
+    background-color: black;
+    overflow: hidden;
+}
+.center_bottom{
+    height: 30%;
+    background-color: yellow;
+}    
+.midel_left{
+    width: 50%;
+    float: left;
+    background-color: red;
+    height: 100%;
+}
+.midel_right{
+    width: 50%;
+    float: left;
+    background-color: whitesmoke;
+    height: 100%;
+}
+.footer{
+    width: 100%;
+    background-color: green;
+}
