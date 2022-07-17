@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    height: 100px;
+    background-color: greenyellow;
+    text-align: center;
+}
+.navigision_bar{
+    height: 100px;
+    background-color: goldenrod;
+    
+}
+.plamber{
+    overflow: hidden;
+}
+.index{
+    width: 30%;
+    border: rgb(133, 25, 118);
+    height: 300px;
+    float: left;
+}
+.contens_seation{
+    width: 70%;
+    background-color: rgb(56, 41, 97);
+    height: 300px;
+    float: left;
+}
+.footer{
+    height: 200px;
+    background-color: rgb(253, 147, 174);
+    text-align: center;
+}
